@@ -2,8 +2,8 @@
 
 An interactive Power BI dashboard analysing 700 highly rated IMDb films released between 1921 and 2026. The project covers the full workflow: cleaning and reshaping the data in Power Query, building a three-table data model, and presenting the results on a single-page dashboard.
 
-![Dashboard, top half](dashboard_Top.png)
-![Dashboard, bottom half](dashboard_bottom.png)
+![Dashboard, top half](Dashboard_Top.png)
+![Dashboard, bottom half](Dashboard_bottom.png)
 
 ## Key findings
 
