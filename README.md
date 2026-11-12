@@ -20,7 +20,7 @@ The full write-up is in the report PDF.
 | File | Description |
 |---|---|
 | `imdb.pbix` | Power BI Desktop project (model and dashboard) |
-| `imdb_dataset.csv` | Source data: 700 films, 10 columns |
+| `imdb dataset.csv` | Source data: 700 films, 10 columns |
 | `IMDb_Power_BI_Report.pdf` | Full project report |
 | `Dashboard_Top.png` | Screenshot of the dashboard (top part) |
 | `Dashboard_bottom.png` | Screenshot of the dashboard (bottom part) |
